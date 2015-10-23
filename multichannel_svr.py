@@ -1,5 +1,5 @@
-# Scikit-learn style class for multichannel support vector regression (SVR)
-# with chi-squared kernel. Implements fit, predict, and score methods.
+# Scikit-learn style class for multichannel support vector regression (SVR).
+# Implements fit, predict, and score methods.
 # 
 # The multichannel data is taken as a tuple of 2D numpy arrays, where each 
 # channel array contains the same number of observations and each row in 
