@@ -6,6 +6,6 @@ where *k<sup>c</sup>(x<sub>i</sub><sup>c</sup>, x<sub>j</sub><sup>c</sup>)* is t
 *A<sup>c</sup>* is the mean value of similarities for the *c*-th channel.<br><br>
 Requires:<br>
 numpy<br>
-skcikit-learn (for the underlying SVR model)<br>
+scikit-learn (for the underlying SVR model)<br>
 
 						
