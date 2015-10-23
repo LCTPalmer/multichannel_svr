@@ -8,6 +8,6 @@
 Channel data combined with aggregated kernel, computed as:<br>
 
 
-\[ K(x_i,x_j)=\sum_c \frac{k^c({x_i}^c, {x_j}^c)}{A^c}$ \]
+K(x<sub>i</sub>, x<sub>j</sub>) = Sum<sub>c</sub> k<sup>c</sup>(x<sub>i</sub>}<sup>c</sup>, x<sub>j</sub>}<sup>c</sup>)/A<sup>c</sup>} 
 
 						
